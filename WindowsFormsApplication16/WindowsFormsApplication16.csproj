@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47778217-D57F-461A-9AE9-6C81A9967C64}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication16</RootNamespace>
+    <AssemblyName>WindowsFormsApplication16</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>790e8a6e</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.5.6403.13419, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.5.6403.13419\lib\net35-client\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PictureBoxAbouAmmar">
+      <HintPath>..\..\..\..\..\Downloads\PictureBoxAbouAmmar.dll</HintPath>
+    </Reference>
+    <Reference Include="PictureBoxExtended, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\PictureBoxExtended.1.0.1\lib\PictureBoxExtended.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ana_ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ana_ekran.Designer.cs">
+      <DependentUpon>ana_ekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hesap_ayarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hesap_ayarlari.Designer.cs">
+      <DependentUpon>hesap_ayarlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kişiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kişiler.Designer.cs">
+      <DependentUpon>kişiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mesajlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mesajlar.Designer.cs">
+      <DependentUpon>mesajlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="page_load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="page_load.Designer.cs">
+      <DependentUpon>page_load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="sifremi_unuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifremi_unuttum.Designer.cs">
+      <DependentUpon>sifremi_unuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yardim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yardim.Designer.cs">
+      <DependentUpon>yardim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_anasayfa.Designer.cs">
+      <DependentUpon>yoneticipanel_anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_beklemede_sikayet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_beklemede_sikayet.Designer.cs">
+      <DependentUpon>yoneticipanel_beklemede_sikayet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_cozulen_sikayetler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_cozulen_sikayetler.Designer.cs">
+      <DependentUpon>yoneticipanel_cozulen_sikayetler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_destek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_destek.Designer.cs">
+      <DependentUpon>yoneticipanel_destek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_gorevliler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_gorevliler.Designer.cs">
+      <DependentUpon>yoneticipanel_gorevliler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_kullanicilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_kullanicilar.Designer.cs">
+      <DependentUpon>yoneticipanel_kullanicilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_kullanici_arama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_kullanici_arama.Designer.cs">
+      <DependentUpon>yoneticipanel_kullanici_arama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_sohbetler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_sohbetler.Designer.cs">
+      <DependentUpon>yoneticipanel_sohbetler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_yasaklama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_yasaklama.Designer.cs">
+      <DependentUpon>yoneticipanel_yasaklama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticipanel_yoneticisohbeti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticipanel_yoneticisohbeti.Designer.cs">
+      <DependentUpon>yoneticipanel_yoneticisohbeti.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ana_ekran.resx">
+      <DependentUpon>ana_ekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hesap_ayarlari.resx">
+      <DependentUpon>hesap_ayarlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kişiler.resx">
+      <DependentUpon>kişiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mesajlar.resx">
+      <DependentUpon>mesajlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="page_load.resx">
+      <DependentUpon>page_load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifremi_unuttum.resx">
+      <DependentUpon>sifremi_unuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yardim.resx">
+      <DependentUpon>yardim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_anasayfa.resx">
+      <DependentUpon>yoneticipanel_anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_beklemede_sikayet.resx">
+      <DependentUpon>yoneticipanel_beklemede_sikayet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_cozulen_sikayetler.resx">
+      <DependentUpon>yoneticipanel_cozulen_sikayetler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_destek.resx">
+      <DependentUpon>yoneticipanel_destek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_gorevliler.resx">
+      <DependentUpon>yoneticipanel_gorevliler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_kullanicilar.resx">
+      <DependentUpon>yoneticipanel_kullanicilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_kullanici_arama.resx">
+      <DependentUpon>yoneticipanel_kullanici_arama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_sohbetler.resx">
+      <DependentUpon>yoneticipanel_sohbetler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_yasaklama.resx">
+      <DependentUpon>yoneticipanel_yasaklama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticipanel_yoneticisohbeti.resx">
+      <DependentUpon>yoneticipanel_yoneticisohbeti.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\E-MUHABBET.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_401900.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\500px-TK_email_icon.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\socialpro-favicon-chatbubbles-500x500.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VisualEditor_-_Icon_-_Search-big.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-book-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-call.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speech-bubble-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\communication-1991849_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assistance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_354189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_328574.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boşta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\görünmez.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rahatsız etme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yonetici.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filled-chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paomedia-Small-N-Flat-Sign-warning.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yonetici_panel.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Xamarin.Forms.2.3.4.247\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.3.4.247\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Xamarin.Forms.2.3.4.247\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Forms.2.3.4.247\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

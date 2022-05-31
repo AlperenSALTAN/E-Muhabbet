@@ -1,0 +1,125 @@
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Resource1.resources
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+c:\users\maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.register.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.sifremi_unuttum.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.ana_ekran.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.hesap_ayarlari.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.page_load.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\CircularProgressBar.dll
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WinFormAnimation.dll
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\CircularProgressBar.xml
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WinFormAnimation.xml
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\PictureBoxExtended.dll
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yardim.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.kişiler.resources
+C:\Users\Maxuma\documents\visual studio 2013\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\CircularProgressBar.dll
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\PictureBoxExtended.dll
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WinFormAnimation.dll
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\CircularProgressBar.xml
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WinFormAnimation.xml
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.ana_ekran.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.hesap_ayarlari.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.kişiler.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.page_load.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.register.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Resource1.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.sifremi_unuttum.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yardim.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.mesajlar.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_anasayfa.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_kullanicilar.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_kullanici_arama.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_yasaklama.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_gorevliler.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_sohbetler.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_yoneticisohbeti.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_destek.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_beklemede_sikayet.resources
+C:\Users\Maxuma\Documents\Visual Studio 2013\Projects\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_cozulen_sikayetler.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\PictureBoxExtended.dll
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WinFormAnimation.xml
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.ana_ekran.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.hesap_ayarlari.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.kişiler.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.mesajlar.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.page_load.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.register.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Resource1.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.sifremi_unuttum.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yardim.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_anasayfa.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_beklemede_sikayet.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_cozulen_sikayetler.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_destek.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_gorevliler.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_kullanicilar.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_kullanici_arama.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_sohbetler.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_yasaklama.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_yoneticisohbeti.resources
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.CopyComplete
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+C:\Users\User\Desktop\AlperenSALTAN\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.ana_ekran.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.hesap_ayarlari.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.kişiler.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.mesajlar.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.page_load.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.register.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Resource1.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.sifremi_unuttum.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yardim.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_anasayfa.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_beklemede_sikayet.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_cozulen_sikayetler.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_destek.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_gorevliler.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_kullanicilar.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_kullanici_arama.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_sohbetler.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_yasaklama.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.yoneticipanel_yoneticisohbeti.resources
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\CircularProgressBar.dll
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\PictureBoxExtended.dll
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WinFormAnimation.dll
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\CircularProgressBar.xml
+C:\Users\IMP_s\Desktop\E-Muhabbet\WindowsFormsApplication16\bin\Debug\WinFormAnimation.xml
